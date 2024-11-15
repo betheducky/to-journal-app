@@ -1,2 +1,2 @@
 # to-journal-app
-Browser-only to-do and journaling app
+Browser-Only To-Do and Journal Utility
